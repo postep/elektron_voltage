@@ -1,0 +1,5 @@
+Added Component: Designator=P_SUPPLY(BUCHANAN7744)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC1_1 Pin=P_SUPPLY-1
+Added Pin To Net: NetName=GND Pin=P_SUPPLY-2
+Added Member To Class: ClassName=Sheet1 Member=Component P_SUPPLY BUCHANAN7744
