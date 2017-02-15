@@ -105,11 +105,32 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNVDPDNI
 
+[Document5]
+DocumentPath=PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HLJCISLJ
+
 [GeneratedDocument1]
-DocumentPath=Schlib1.csv
+DocumentPath=Project Outputs for voltage\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Schlib1.csv
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Schlib1.rep
 DItemRevisionGUID=
 
